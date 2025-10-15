@@ -140,7 +140,7 @@ Ou acesse a subpastas do bloco:
 ## 🧾 Conclusão Geral
 
 O desafio técnico foi uma oportunidade de demonstrar **pensamento analítico, visão sistêmica e foco na experiência do usuário**.  
-Cada bloco foi construído com **rastreabilidade e propósito**, refletindo minha abordagem profissional como QA:
+Cada bloco foi construído com **rastreabilidade e propósito**, refletindo minha abordagem profissional como QA.
 
 ---
 
