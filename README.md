@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 📌 Visão Geral
 
 Este projeto foi desenvolvido como parte do processo seletivo para **Analista de Teste / QA Pleno II**, com o objetivo de avaliar minhas habilidades técnicas, analíticas e estratégicas em **Garantia de Qualidade (QA)**.  
@@ -44,7 +45,7 @@ Os testes cobrem as regras de negócio e garantem o cumprimento dos critérios d
 
 Ou acesse a subpastas do bloco:
 ```bash
-  /case-tecnico-qa-systock
+  /teste-case-qa-systock
   ├── bloco-1/
   │ ├── detalhes-e-evidencias-bloco1.pdf
 ```
@@ -67,7 +68,7 @@ Os testes reforçam a importância de **documentar a jornada do usuário** e ide
 
 Ou acesse a subpastas do bloco:
 ```bash
-  /case-tecnico-qa-systock
+  /teste-case-qa-systock
   ├── bloco-2/
   │ ├── detalhes-e-evidencias-bloco2.pdf
 ```
@@ -89,7 +90,7 @@ O principal bug analisado (dados divergentes no carrinho) exemplifica a importâ
 
 Ou acesse a subpastas do bloco:
 ```bash
-  /case-tecnico-qa-systock
+  /teste-case-qa-systock
   ├── bloco-3/
   │ ├── detalhes-e-evidencias-bloco3.pdf
 ```
@@ -111,7 +112,7 @@ O processo proposto foca em criar **cultura de qualidade**, com automação grad
 
 Ou acesse a subpastas do bloco:
 ```bash
-  /case-tecnico-qa-systock
+  /teste-case-qa-systock
   ├── bloco-4/
   │ ├── detalhes-e-evidencias-bloco4.pdf
 ```
@@ -130,7 +131,7 @@ Demonstra domínio técnico e visão de automação contínua aplicada a cenári
 
 Ou acesse a subpastas do bloco:
 ```bash
-  /case-tecnico-qa-systock
+  /teste-case-qa-systock
   ├── bloco-bonus/
   │ ├── detalhes-e-evidencias-bonus.pdf
 ```
