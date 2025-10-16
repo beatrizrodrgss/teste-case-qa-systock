@@ -147,6 +147,6 @@ Cada bloco foi construído com **rastreabilidade e propósito**, refletindo minh
 👩‍💻 **Beatriz Rodrigues**  
 *Analista de Testes e Qualidade de Software*  
 
-📧 **E-mail:** beatrizcrds7@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/beatriz-rodrigues-santts/](#)  
-💻 **GitHub:** [github.com/beatrizrodrgss](#)
+📧 **E-mail:** [beatrizcrds7@gmail.com](mailto:beatrizcrds7@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/beatriz-rodrigues-santts](https://www.linkedin.com/in/beatriz-rodrigues-santts/)  
+💻 **GitHub:** [github.com/beatrizrodrgss](https://github.com/beatrizrodrgss)
